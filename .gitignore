@@ -1,0 +1,4 @@
+bin/
+.ccls-cache/
+*.log
+*.o
